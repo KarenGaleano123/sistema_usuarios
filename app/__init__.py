@@ -1,0 +1,1 @@
+# Inicializador principal del paquete app
